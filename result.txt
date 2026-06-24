@@ -1,0 +1,23 @@
+================================
+ File Integrity Report
+================================
+
+Folder Path:
+C:\Users\ELCOT\Desktop\TestFolder
+
+
+[ ! ] MODIFIED FILE :
+C:\Users\ELCOT\Desktop\TestFolder\box.txt
+
+
+[ - ] DELETED FILE :
+C:\Users\ELCOT\Desktop\TestFolder\hiii.txt
+
+
+[ + ] NEW FILE :
+C:\Users\ELCOT\Desktop\TestFolder\hii.txt
+
+
+================================
+ Scan Completed
+================================
