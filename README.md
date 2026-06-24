@@ -1,8 +1,10 @@
 # Advanced File Integrity Monitor 🔐
 
-A Python-based cybersecurity tool that monitors file integrity using SHA256 hashing.
+A Python-based cybersecurity tool that monitors file integrity using **SHA256 hashing**.
 
-This project detects file changes by comparing the current files with a saved baseline. It can identify modified, deleted, and newly created files.
+This project detects file changes by comparing current files with a saved baseline. It identifies **modified, deleted, and newly created files**.
+
+---
 
 ## Features
 
@@ -14,7 +16,11 @@ This project detects file changes by comparing the current files with a saved ba
 - Generate scan reports
 - Security event logging
 
+---
+
 ## Project Structure
+
+
 Advanced-File-Integrity-Monitor
 
 ├── main.py
@@ -26,6 +32,9 @@ Advanced-File-Integrity-Monitor
 ├── logs.txt
 └── result.txt
 
+
+---
+
 ## How It Works
 
 1. Select the folder to monitor.
@@ -34,36 +43,38 @@ Advanced-File-Integrity-Monitor
 4. Run a scan to compare changes.
 5. The tool reports modified, deleted, and new files.
 
-## Run Project:
+---
 
+## Run Project
+
+Run the program:
+
+```bash
 python main.py
-
-##Usage
-
+Usage
 Create Baseline
 
-#Choose:
+Choose:
 
 1. Create Baseline
 
 Enter the folder path.
 
-#Example:
+Example:
 
 C:\Users\ELCOT\Desktop\TestFolder
 Scan Files
 
-#Choose:
+Choose:
 
 2. Scan Files
 
-##The program detects:
+The program detects:
 
 Modified files
 Deleted files
 New files
-
-##Example Output
+Example Output
 ================================
  File Integrity Report
 ================================
@@ -77,12 +88,11 @@ C:\Users\ELCOT\Desktop\TestFolder\hiii.txt
 [ + ] NEW FILE :
 C:\Users\ELCOT\Desktop\TestFolder\hii.txt
 
+
 ================================
  Scan Completed
 ================================
-
-##Technologies Used
-
+Technologies Used
 Python
 SHA256 Hashing
 JSON
@@ -93,8 +103,6 @@ File Integrity Monitoring (FIM)
 Hash Verification
 Change Detection
 Security Logging
+License
 
-##License
-
-This project is created for educational and cybersecurity learning purposes.
-
+This project is created for educational purposes and cybersecurity learning.
