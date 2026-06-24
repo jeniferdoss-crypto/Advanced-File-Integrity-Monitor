@@ -75,7 +75,6 @@ Modified files
 Deleted files
 New files
 
----
 
 ## Example Output
 
