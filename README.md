@@ -74,7 +74,8 @@ The program detects:
 Modified files
 Deleted files
 New files
-Example Output
+
+##Example Output
 ================================
  File Integrity Report
 ================================
@@ -92,7 +93,8 @@ C:\Users\ELCOT\Desktop\TestFolder\hii.txt
 ================================
  Scan Completed
 ================================
-Technologies Used
+
+##Technologies Used
 Python
 SHA256 Hashing
 JSON
@@ -103,6 +105,7 @@ File Integrity Monitoring (FIM)
 Hash Verification
 Change Detection
 Security Logging
-License
+
+##License
 
 This project is created for educational purposes and cybersecurity learning.
