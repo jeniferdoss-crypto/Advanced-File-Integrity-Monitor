@@ -45,13 +45,13 @@ Advanced-File-Integrity-Monitor
 
 ---
 
-## Run Project
+## Run Project:
 
-Run the program:
-
-```bash
 python main.py
-Usage
+
+---
+
+## Usage
 Create Baseline
 
 Choose:
@@ -75,6 +75,8 @@ Modified files
 Deleted files
 New files
 
+---
+
 ## Example Output
 
 ================================
@@ -95,6 +97,8 @@ C:\Users\ELCOT\Desktop\TestFolder\hii.txt
  Scan Completed
 ================================
 
+---
+
 ## Technologies Used
 Python
 SHA256 Hashing
@@ -106,6 +110,8 @@ File Integrity Monitoring (FIM)
 Hash Verification
 Change Detection
 Security Logging
+
+---
 
 ## License
 
