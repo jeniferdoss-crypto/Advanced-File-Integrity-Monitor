@@ -79,9 +79,9 @@ New files
 
 ## Example Output
 
-================================
+--------------------------------
  File Integrity Report
-================================
+--------------------------------
 
 [ ! ] MODIFIED FILE :
 C:\Users\ELCOT\Desktop\TestFolder\box.txt
@@ -93,9 +93,9 @@ C:\Users\ELCOT\Desktop\TestFolder\hiii.txt
 C:\Users\ELCOT\Desktop\TestFolder\hii.txt
 
 
-================================
+--------------------------------
  Scan Completed
-================================
+--------------------------------
 
 ---
 
